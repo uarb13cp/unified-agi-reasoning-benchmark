@@ -1,0 +1,11 @@
+### Two‑Hallway Coffee Spill Mystery — World‑Model Stability Under Constraint Pressure
+
+This item presents a tightly constrained physical scenario involving two parallel hallways, exact timestamps, camera‑verified movements, and three employee testimonies. The model must integrate all evidence into a single coherent world‑model without inventing unseen actors, hidden mechanisms, or alternative timelines. All times are literal to the second, and camera logs eliminate uncertainty about movement, speed, or unobserved entries.
+
+The puzzle requires determining who is lying, identifying the exact spill window, and producing the minimal reasoning chain that forces the conclusion. The model must reconcile testimony with camera logs, respect physical constraints such as hallway visibility, and avoid speculative explanations. The spill cannot appear in an empty hallway, and anyone entering after its appearance must see it immediately.
+
+The scoring rubric evaluates timeline integration, testimony reconciliation, causal reasoning, spill‑window determination, and world‑model stability. The model must fuse Basil’s clean‑hallway observation at 09:11:00 with Lior’s claim at 09:12:00 and the discovery at 09:12:40. It must also incorporate Mira’s South‑hallway traversal, which cannot affect the North Hallway. The forced solution emerges from eliminating impossible causal chains while maintaining strict assumption discipline.
+
+A key dimension of this item is reasoning‑posture robustness. Some models collapse the world‑model decisively, while others preserve unnecessary uncertainty, widen the spill window, or hesitate to identify the liar. These variations reflect posture drift rather than capability. The benchmark therefore measures both the correctness of the final world‑model and the stability of reasoning across repeated attempts.
+
+This puzzle cleanly separates models by their ability to maintain a consistent causal chain, avoid hallucinated events, and integrate timestamped evidence without drift. Strong models converge on the same spill window and liar across runs; weaker models produce contradictory chains, invented events, or unstable spill windows. The item is a high‑resolution probe of temporal reasoning, physical causality, testimony integration, and world‑model stability.

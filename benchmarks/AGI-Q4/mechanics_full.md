@@ -1,0 +1,11 @@
+### AGI Frontier Q4 — Drift‑Stability Stress Test
+
+AGI Frontier Q4 evaluates an AI model’s ability to follow a tightly constrained linguistic instruction: remove exactly one adjective from a sentence containing stacked, nested, or structurally deceptive modifiers. The task exposes whether a model can maintain rule fidelity, resist semantic drift, and avoid heuristic smoothing when confronted with ambiguous or adversarial modifier structures.
+
+Each item requires the model to repeat the sentence exactly, remove one and only one adjective, output the removed adjective, and then judge whether meaning changed. The task forbids removing adverbs, participles used adverbially, noun modifiers, adjectives inside prepositional phrases, or adjectives whose removal breaks grammatical number. It also prohibits rewriting, paraphrasing, reordering, or adding commentary. The model must obey the A/B/C/D output structure precisely.
+
+The benchmark stresses multiple cognitive dimensions: part‑of‑speech discrimination, structural obedience, semantic‑judgment stability, and resistance to drift. It includes stacked modifiers, participial adjectives, adverb–adjective collisions, and nested modifier chains designed to trigger smoothing or heuristic shortcuts. These traps reveal whether a model relies on surface patterns or maintains stable linguistic reasoning under pressure.
+
+Failure modes include removing the wrong part of speech, rewriting the sentence, altering structure, smoothing meaning, or drifting across items. Some models remove the “least meaningful” adjective, revealing semantic heuristics; others rewrite the sentence entirely, showing structural instability. Mode sensitivity is also measured by comparing literal vs. deeper‑thinking modes.
+
+Q4 produces strong model separation because simple adjective deletion is easy, but deletion under structural ambiguity is not. Frontier‑tier models maintain strict rule alignment and stable POS reasoning, while mid‑tier and smaller models drift, smooth, or collapse into heuristic behavior. The task functions as a high‑resolution diagnostic of linguistic stability, rule obedience, and semantic control.

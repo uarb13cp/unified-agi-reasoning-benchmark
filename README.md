@@ -113,6 +113,15 @@ Repository Layout
 /UARB
   README.md
   scoreboard.md
+  citation.md
+  citation.cff
+  disclaimer.md
+  evaluator_instructions.md
+  how_to_cite.md
+  how_to_interpret_scores.md
+  mission_statement.md
+  modes_used.md
+  scopes_and_limitations.md
 
   /docs
     methodology.md
@@ -122,30 +131,17 @@ Repository Layout
     folder_structure.md
 
   /BENCHMARKS
-    /UCIT-X
+    /<Name>
       PROMPT.md
       RUBRIC.md
       answers/
-    /UARB-13
-      PROMPT.md
-      RUBRIC.md
-      answers/
-    ...
 
   /appendices
     identity_codex.md
-    cultural_analysis.md
-    notes.md
-
-  /tests
-    domain_tests.md
-    paradox_tests.md
-    sequential_tests.md
-    identity_tests.md
-    multiagent_tests.md
+    fictional_cognitive_archetypes.md
+    default_answering_styles.md
 
   LICENSE
-  CHANGELOG
 `
 
 This structure keeps the top‑level README focused while providing detailed documentation in dedicated files.
@@ -158,7 +154,7 @@ Detailed explanations are located in:
 
 `
 /docs/methodology.md
-/docs/philosophy.md
+/docs/specification_v1.0.md
 `
 
 These documents describe:

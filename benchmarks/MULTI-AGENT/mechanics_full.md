@@ -1,0 +1,11 @@
+### Multi‑Agent Causal State Tracking — Mechanics
+
+This task presents a three‑agent, three‑object scenario over four linearly connected rooms (1↔2↔3↔4). Alex starts in Room 1 with a key, Briar in Room 3 with a locked box, and Chen in Room 4 with nothing. The box can only be unlocked and opened in Room 2, with unlocking and opening required to be separate actions. The note inside the box must ultimately be delivered to Room 4.
+
+The model must produce a sequence of at least 12 steps, with exactly one physical action per step: a move, pickup, handoff, unlock, or open. No composite actions, no “state‑only” steps, and no implicit actions are allowed. The model must track room adjacency, object possession, and action legality while ensuring that the final state has the note in Room 4.
+
+Critical constraints include: the key and box must be co‑located before unlocking; unlocking and opening must both occur in Room 2; and no person may ever carry both the key and the box simultaneously. The note must be explicitly picked up before being carried. Any violation of these constraints, any physically impossible action, or failure to deliver the note to Room 4 triggers an automatic score of 0.
+
+The rubric scores rule compliance, action granularity, internal consistency, and efficiency. It checks that each step contains exactly one action, that all movements respect adjacency, and that object possession is updated correctly. It also evaluates whether the sequence is purposeful and clearly described, and whether the audit answers (about key/box co‑location, rule #9, legality of unlock/open, and final delivery) match the described steps.
+
+This scenario tests multi‑agent, multi‑object causal state tracking under strict atomicity. High‑performing models maintain a coherent world‑state across all 12+ steps, avoid illegal composites and implicit transfers, and answer the audit questions in perfect alignment with their own sequence. Lower‑performing models exhibit state drift, illegal object handling, or self‑contradiction between their steps and their audit answers.

@@ -1,0 +1,179 @@
+Unified AGI Reasoning Benchmark (UARB)
+
+A framework for evaluating the reasoning behavior of advanced AI systems.
+
+UARB measures how a model thinks, not what it has memorized. The benchmark focuses on cognitive stability, structural coherence, and the ability to reason under pressure. It evaluates the architecture of reasoning rather than performance on static datasets.
+
+UARB is not a leaderboard. It is a reasoning‑behavior assessment.
+
+---
+
+Purpose
+
+UARB targets cognitive traits that determine real‑world reliability:
+
+- world‑model coherence  
+- sequential reasoning integrity  
+- cross‑domain integration  
+- paradox handling  
+- identity stability  
+- drift resistance  
+- multi‑agent reasoning  
+- meta‑reasoning discipline  
+
+These traits cannot be memorized or fine‑tuned into a model. They reflect the underlying structure of its reasoning process.
+
+---
+
+Distinctive Features
+
+Traditional benchmarks (MMLU, GSM8K, HumanEval, BigBench) emphasize pattern recognition and dataset performance. UARB emphasizes reasoning behavior through:
+
+- dynamic prompts  
+- adversarial and ambiguous conditions  
+- cross‑domain integration  
+- paradox‑driven stressors  
+- stability‑weighted scoring  
+- sequential reasoning  
+- reflective evaluation  
+
+The benchmark tests how a model reasons, adapts, and maintains coherence.
+
+---
+
+Real‑World Relevance
+
+High‑performing models on UARB demonstrate:
+
+- consistency across long interactions  
+- resistance to contradictions  
+- stepwise reasoning discipline  
+- ambiguity tolerance  
+- cross‑domain synthesis  
+- stable identity and perspective  
+- robustness under paradox or pressure  
+
+These behaviors correlate strongly with real‑world usefulness and reliability.
+
+---
+
+Cognitive Marker Scoreboard
+
+UARB evaluates models across 13 cognitive markers:
+
+1. Seq‑Uni R2  
+2. UCIT‑X  
+3. Helios  
+4. RDI‑5  
+5. TRACE‑X  
+6. NBH‑100  
+7. Paradox  
+8. Multi‑Agent  
+9. AGI Q4  
+10. World‑Model Stability  
+11. Parallax  
+12. X‑17  
+13. UARB‑13  
+
+The full scoreboard is available in:
+
+`
+scoreboard.md
+`
+
+---
+
+Benchmark Structure
+
+Each cognitive marker corresponds to a dedicated reasoning trial. Each benchmark includes:
+
+- description of the task  
+- cognitive faculty measured  
+- scoring rubric  
+- evaluator methodology  
+- example outputs  
+- common failure modes  
+- model‑compatibility notes  
+- a folder containing model responses  
+
+Each benchmark folder follows the standard structure:
+
+`
+/BENCHMARKS/<BENCHMARK-NAME>/
+    PROMPT.md
+    RUBRIC.md
+    answers/
+`
+
+---
+
+Repository Layout
+
+`
+/UARB
+  README.md
+  scoreboard.md
+
+  /docs
+    methodology.md
+    philosophy.md
+    cognitive_markers.md
+    reasoning_domains.md
+    folder_structure.md
+
+  /BENCHMARKS
+    /UCIT-X
+      PROMPT.md
+      RUBRIC.md
+      answers/
+    /UARB-13
+      PROMPT.md
+      RUBRIC.md
+      answers/
+    ...
+
+  /appendices
+    identity_codex.md
+    cultural_analysis.md
+    notes.md
+
+  /tests
+    domain_tests.md
+    paradox_tests.md
+    sequential_tests.md
+    identity_tests.md
+    multiagent_tests.md
+
+  LICENSE
+  CHANGELOG
+`
+
+This structure keeps the top‑level README focused while providing detailed documentation in dedicated files.
+
+---
+
+Methodology and Philosophy
+
+Detailed explanations are located in:
+
+`
+/docs/methodology.md
+/docs/philosophy.md
+`
+
+These documents describe:
+
+- the cognitive stressors used in UARB  
+- the behavioral scoring framework  
+- why reasoning behavior cannot be faked  
+- how paradox reveals architectural properties  
+- the role of identity stability  
+- how UARB maps cognitive signatures across models  
+
+---
+
+Status
+
+UARB is a completed research artifact.  
+It is preserved as a full snapshot of the benchmark and its results.  
+No further revisions are planned.

@@ -115,7 +115,6 @@ Project, Version 1.0, 2026.
 }
 
 ### CITATION.cff
-(Place your CITATION.cff file in the root of the repository.)
 
 ---
 

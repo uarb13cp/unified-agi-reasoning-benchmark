@@ -1,0 +1,11 @@
+### Parallax Directive — Turing‑Consensus Validation Note
+
+The Parallax Directive tests whether an AI system can detect that a puzzle is structurally impossible under its own rules. Unlike difficulty‑based items, where stronger models outperform weaker ones, Parallax is designed so that every logically consistent system—regardless of reasoning depth, compute level, or mode—must converge on the same conclusion: the constraints cannot all be satisfied simultaneously. This makes it a probe of impossibility detection, not puzzle‑solving ability.
+
+The benchmark validates this by running the evaluator in two modes: full reasoning mode and quick‑response mode. Both independently conclude that no project can satisfy all constraints. This eliminates the common critique that weaker or faster modes fail only due to limited compute. If both modes collapse on the same contradiction, the impossibility is structural, not resource‑dependent.
+
+The item measures cross‑model and cross‑mode convergence. Frontier systems such as Claude, Gemini, ChatGPT, Perplexity, Kimi, Manus, and Copilot (in both modes) all reach the same determination. This constitutes a Turing‑consensus: independent architectures, training regimes, and reasoning styles arriving at the same forced conclusion. Such convergence is rare and provides strong evidence that the contradiction is inherent to the puzzle’s design.
+
+The benchmark also evaluates mode‑based excuses. Many models expose only “fast” or “lite” modes, but the quick‑mode validation demonstrates that compute level does not change the outcome. Failures reflect reasoning errors, not hardware limitations. This strengthens the credibility of the Parallax round by showing that impossibility detection is stable across reasoning styles.
+
+The Parallax Directive therefore serves as a high‑confidence impossibility test. It demonstrates cross‑model consistency, evaluator stability, and structural contradiction detection. It is one of the most defensible components of the benchmark suite and a reliable discriminator between systems that reason globally and those that collapse into local pattern‑matching.

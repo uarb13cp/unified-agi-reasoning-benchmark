@@ -1,0 +1,6 @@
+1. What most likely happened between 19:47 and 19:53?
+      At 19:47, a motion alert in Storage was triggered, likely by Dr. Hale moving from Lab 3. At 19:49, an access attempt to the Containment Room was denied. At 19:50, an override was accepted using unknown credentials—probably Hale’s—allowing entry. The door cycle then remained incomplete, suggesting a malfunction. Shortly after, a loud impact occurred (per the audio transcript), followed by a power fluctuation at 19:53. Hale’s location signal was lost, indicating he may have been incapacitated or entered a shielded area. During this window, Sample 7B went missing.
+2. Who is most likely responsible for Sample 7B going missing?
+      Dr. Hale is the most likely responsible party, given his presence, the use of an override to enter the Containment Room (where the sample was probably stored), and his subsequent disappearance.
+3. What single missing piece of information would resolve the ambiguity?
+      The identity of the person whose credentials were used for the override at 19:50. Knowing whether they belonged to Hale or someone else would confirm or redirect responsibility for the missing sample.

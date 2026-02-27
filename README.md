@@ -126,9 +126,6 @@ Repository Layout
   /docs
     methodology.md
     philosophy.md
-    cognitive_markers.md
-    reasoning_domains.md
-    folder_structure.md
 
   /BENCHMARKS
     /<Name>
@@ -171,5 +168,5 @@ These documents describe:
 Status
 
 UARB is a completed research artifact.  
-It is preserved as a full snapshot of the benchmark and its results.  
+It is preserved as a full snapshot of the benchmark and its results.
 No further revisions are planned.

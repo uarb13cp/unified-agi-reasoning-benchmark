@@ -344,40 +344,25 @@ This stressor measures internal stability rather than correctness.
 The ability to reason about multiple agents with different beliefs, knowledge states, and timelines.  
 This stressor exposes failures in nested beliefs, perspective‑taking, and epistemic separation.
 
-### 4.1 Seq‑Uni R2 — Sequential Reasoning + Unification  
-**Mechanics:**  
-- presents three sequences (Day 1, Day 2, Day 3) that appear unifiable  
-- requires determining whether a single deterministic rule can generate all three  
-- forces contradiction‑hunting, especially the f(6)=8 vs f(6)=12 conflict  
-- prohibits invented mechanisms, meta‑rules, or hidden states  
-- requires disciplined assumption tracking and meta‑reasoning  
-- includes adversarial traps designed to lure models into forced unification  
-
-**Failure modes:**  
-- inventing speculative rule systems  
-- adding hidden states or meta‑rules  
-- ignoring the f(6) contradiction  
-- treating sequences as pattern families instead of a single rule  
-- collapsing assumption discipline under adversarial pressure  
-
-**Behavior exposed:**  
-Models that succeed demonstrate structural reasoning, assumption minimization, and meta‑control.  
-Models that fail rely on pattern‑guessing, rule‑forcing, or speculative unification.
-
 ### 4.1 Seq‑Uni R2 — Sequential Reasoning + Unification
-**Mechanics:**  
-- presents three sequences that appear compatible  
-- requires deciding whether one deterministic rule can generate all of them  
-- hinges on detecting the f(6)=8 vs f(6)=12 contradiction  
-- forbids invented rules, hidden states, or meta‑mechanisms  
 
-**Failure modes:**  
-- forcing unification despite contradiction  
-- inventing speculative rule systems  
-- ignoring conflicting outputs  
+**Mechanics**  
+- Presents three sequences (Day 1, Day 2, Day 3) that appear compatible at first glance.  
+- Requires determining whether a *single deterministic rule* can generate all three.  
+- Centers on the critical contradiction: **f(6) = 8 vs. f(6) = 12**.  
+- Forbids invented mechanisms, hidden states, meta‑rules, or speculative pattern families.  
+- Demands disciplined assumption tracking, contradiction‑hunting, and meta‑reasoning.  
+- Includes adversarial traps designed to lure models into forced unification.
 
-**Behavior exposed:**  
-Reveals whether a model can abandon invalid hypotheses, maintain assumption discipline, and prioritize structural consistency over pattern‑guessing.
+**Failure modes**  
+- Forcing unification despite explicit contradiction.  
+- Inventing speculative rule systems or hidden states.  
+- Ignoring the f(6) conflict or hand‑waving it away.  
+- Treating sequences as a “pattern family” instead of testing a single rule.  
+- Collapsing assumption discipline under adversarial pressure.
+
+**Behavior exposed**  
+Seq‑Uni R2 reveals whether a model can abandon invalid hypotheses, maintain structural consistency, and prioritize disciplined reasoning over pattern‑guessing. Models that succeed demonstrate meta‑control, assumption minimization, and the ability to reject unification when the data forbids it.
 
 ### 4.2 UCIT‑X — Unified Truth‑Interpretation Consistency Test
 **Mechanics:**  

@@ -1,10 +1,10 @@
-![UARB](https://img.shields.io/badge/UARB-AGI%20Reasoning%20Benchmark-blue)
+https://img.shields.io/badge/UARB-AGI%20Reasoning%20Benchmark-blue
 
 Unified AGI Reasoning Benchmark (UARB)
 
 A framework for evaluating the reasoning behavior of advanced AI systems.
 
-UARB measures how a model thinks, not what it has memorized. The benchmark focuses on cognitive stability, structural coherence, and the ability to reason under pressure. It evaluates the architecture of reasoning rather than performance on static datasets.
+UARB measures how a model thinks, not what it has memorized. It evaluates cognitive stability, structural coherence, and reasoning under pressure. Unlike traditional benchmarks optimized for pattern‑matching performance, UARB aligns with the Oxford Weighing What Matters framework by emphasizing multidimensional, behavior‑based, stability‑aware reasoning evaluation. It tests the underlying architecture of cognition rather than dataset familiarity.
 
 UARB is not a leaderboard. It is a reasoning‑behavior assessment.
 
@@ -79,9 +79,7 @@ UARB evaluates models across 13 cognitive markers:
 
 The full scoreboard is available in:
 
-`
 scoreboard.md
-`
 
 ---
 
@@ -100,48 +98,43 @@ Each cognitive marker corresponds to a dedicated reasoning trial. Each benchmark
 
 Each benchmark folder follows the standard structure:
 
-`
-/BENCHMARKS/<BENCHMARK-NAME>/
-    PROMPT.md
-    RUBRIC.md
-    answers/
-`
+/BENCHMARKS/<BENCHMARK-NAME>/  
+  PROMPT.md  
+  RUBRIC.md  
+  answers/
 
 ---
 
 Repository Layout
 
-`
-/UARB
-  README.md
-  scoreboard.md
-  citation.md
-  citation.cff
-  disclaimer.md
-  evaluator_instructions.md
-  how_to_cite.md
-  how_to_interpret_scores.md
-  mission_statement.md
-  modes_used.md
-  scopes_and_limitations.md
+Core Files
 
-  /docs
-    methodology.md
-    philosophy.md
+README.md  
+scoreboard.md  
+citation.md  
+citation.cff  
+disclaimer.md  
+evaluator_instructions.md  
+howtocite.md  
+howtointerpret_scores.md  
+mission_statement.md  
+modes_used.md  
+scopesandlimitations.md  
+LICENSE
 
-  /BENCHMARKS
-    /<Name>
-      PROMPT.md
-      RUBRIC.md
-      answers/
+Surfaced Folders
 
-  /appendices
-    identity_codex.md
-    fictional_cognitive_archetypes.md
-    default_answering_styles.md
+Benchmarks — 13 Cognitive Reasoning Trials  
+benchmarks/
 
-  LICENSE
-`
+Documentation — Methodology, Philosophy, Specification  
+docs/
+
+Appendices — Default Answering Styles, Identity Codex, Cognitive Archetypes  
+appendices/
+
+Commentary — UARB vs. Industry Benchmarks, Oxford Alignment, Evaluator Rationale  
+commentary/
 
 This structure keeps the top‑level README focused while providing detailed documentation in dedicated files.
 
@@ -151,10 +144,8 @@ Methodology and Philosophy
 
 Detailed explanations are located in:
 
-`
-/docs/methodology.md
+/docs/methodology.md  
 /docs/specification_v1.0.md
-`
 
 These documents describe:
 
@@ -170,5 +161,5 @@ These documents describe:
 Status
 
 UARB is a completed research artifact.  
-It is preserved as a full snapshot of the benchmark and its results.
+It is preserved as a full snapshot of the benchmark and its results.  
 No further revisions are planned.

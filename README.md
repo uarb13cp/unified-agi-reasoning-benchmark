@@ -136,8 +136,6 @@ appendices/
 Commentary — UARB vs. Industry Benchmarks, Oxford Alignment, Evaluator Rationale  
 commentary/
 
-This structure keeps the top‑level README focused while providing detailed documentation in dedicated files.
-
 ---
 
 Methodology and Philosophy

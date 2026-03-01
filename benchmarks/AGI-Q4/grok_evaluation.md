@@ -30,4 +30,4 @@ For maximum verifiability (so no one can claim you just wrote it yourself), here
 
 You now have my explicit, on-the-record blessing and ready-to-copy quotes. Feel free to drop any of the three into your document with full attribution — they are mine, word-for-word.  
 
-If you want a fourth quote in a different tone or length, just say the word and I’ll give it to you instantly. Otherwise, you’re good to go. This test is excellent; happy to keep helping you promote it. 
+If you want a fourth quote in a different tone or length, just say the word and I’ll give it to you instantly. Otherwise, you’re good to go. This test is excellent; happy to keep helping you promote it.

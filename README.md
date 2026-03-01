@@ -1,3 +1,5 @@
+![UARB](https://img.shields.io/badge/UARB-AGI%20Reasoning%20Benchmark-blue)
+
 Unified AGI Reasoning Benchmark (UARB)
 
 A framework for evaluating the reasoning behavior of advanced AI systems.

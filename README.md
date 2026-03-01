@@ -115,12 +115,12 @@ citation.md
 citation.cff  
 disclaimer.md  
 evaluator_instructions.md  
-howtocite.md  
-howtointerpret_scores.md  
+how_to_cite.md  
+how_to_interpret_scores.md  
 mission_statement.md  
 modes_used.md  
-scopesandlimitations.md  
-LICENSE
+scopes_and_limitations.md  
+LICENSE.md
 
 Surfaced Folders
 

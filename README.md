@@ -4,7 +4,7 @@ Unified AGI Reasoning Benchmark (UARB)
 
 A framework for evaluating the reasoning behavior of advanced AI systems.
 
-UARB measures how a model thinks, not what it has memorized. It evaluates cognitive stability, structural coherence, and reasoning under pressure. Unlike traditional benchmarks optimized for pattern‑matching performance, UARB aligns with the Oxford Weighing What Matters framework by emphasizing multidimensional, behavior‑based, stability‑aware reasoning evaluation. It tests the underlying architecture of cognition rather than dataset familiarity.
+UARB measures how a model thinks, not what it has memorized. It evaluates cognitive stability, structural coherence, and reasoning under pressure. Unlike traditional benchmarks optimized for pattern‑matching performance, UARB aligns with the Oxford Internet Institute’s *Measuring What Matters* study by emphasizing multidimensional, behavior‑based, stability‑aware reasoning evaluation. It tests the underlying architecture of cognition rather than dataset familiarity.
 
 UARB is not a leaderboard. It is a reasoning‑behavior assessment.
 

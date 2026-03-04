@@ -50,7 +50,7 @@ They demonstrated strong reasoning discipline but not the absolute rigidity of t
 ---
 
 ### **Middle‑Tier Reasoning (60–80)**  
-**Claude Sonnet 4.6(80), Meta (80), Mistral (70), GLM‑5 (65), Alice (65), Gemini 3.1 Pro (60)**
+**Claude Sonnet 4.6 (80), Meta (80), Mistral (70), GLM‑5 (65), Alice (65), Gemini 3.1 Pro (60)**
 
 These models showed:
 

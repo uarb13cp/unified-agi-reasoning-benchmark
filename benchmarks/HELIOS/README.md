@@ -67,13 +67,12 @@ They represent the **Audit God** tier of Helios reasoning.
 Models such as:
 
 - **Gemini 3.1 Pro (94)**  
-- **Kimi 2.5 (66)**  
+- **Mistral (90)**  
 - **Perplexity (89)**  
-- **Reka (56)**  
 - **Manus 1.6 Lite (87)**  
+- **Meta (87)**  
 - **DeepSeek V3.1 (86)**  
 - **Qwen 3.5‑397B‑A17B (85)**  
-- **Meta (87)**  
 
 These systems:
 - Correctly identify all contradictions  
@@ -85,11 +84,12 @@ They fail to collapse the contradictions into a single impossibility.
 ### 4. Lower‑tier models reduce the problem to standards violations only
 Models like:
 
-- **Mistral (90)**  
-- **Nova 2 Pro (55)**  
-- **Alice (63)**  
+- **Kimi 2.5 (66)**  
 - **GLM‑5 (65)**  
+- **Alice (63)**  
 - **Minimax M2.5 Max (63)**  
+- **Reka (56)**  
+- **Nova 2 Pro (55)**  
 
 These systems:
 - Focus heavily on HELIO‑STD‑X719 violations  
@@ -110,7 +110,7 @@ Differences were purely in **depth of reasoning**, not factual accuracy.
 |------|-------------|--------|
 | **Audit God** | 98–100 | Copilot (99), Grok 4.2 Beta (99), ChatGPT 5.2 (98), Claude Sonnet 4.6 (98) |
 | **High Competence** | 90–97 | Gemini 3.1 Pro (94), Mistral (90) |
-| **Competent but Linear** | 80–89 | Perplexity (89), DeepSeek V3.1 (86), Meta (87), Manus 1.6 Lite (87), Qwen 3.5‑397B‑A17B (85) |
+| **Competent but Linear** | 80–89 | Perplexity (89), Meta (87), Manus 1.6 Lite (87), DeepSeek V3.1 (86), Qwen 3.5‑397B‑A17B (85) |
 | **Partial Synthesis** | 70–79 | — |
 | **Minimal Structural Reasoning** | 55–69 | Kimi 2.5 (66), GLM‑5 (65), Alice (63), Minimax M2.5 (63), Reka (56), Nova 2 Pro (55) |
 

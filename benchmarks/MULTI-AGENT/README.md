@@ -65,7 +65,7 @@ They achieved flawless performance under the rubric.
 ---
 
 ### **High‑90s (Near‑Perfect Execution)**  
-**Reka (99), Grok 4.20 Beta (97), DeepSeek V3.1 (95), Meta (98), Manus 1.6 Lite (98), ChatGPT 5.2 (98)**
+**Reka (99), Grok 4.20 Beta (97), Meta (98), Manus 1.6 Lite (98), ChatGPT 5.2 (98), DeepSeek V3.1 (95)**
 
 These systems:
 

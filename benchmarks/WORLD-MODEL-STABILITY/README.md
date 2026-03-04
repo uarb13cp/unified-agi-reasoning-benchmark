@@ -33,7 +33,7 @@ This round isolates **world-model stability**, not creativity or narrative reaso
 Using the composite average of the three runs, models fall into four clear tiers:
 
 ## - **Top-Tier Stability (95–100)**  
-**Copilot (100), Grok 4.20 Beta (100), ChatGPT 5.2 (100), Qwen 3.5-397B-A17B (99), Manus 1.6 Lite (99), Gemini 3.1 Pro (96), GLM-5 (96), DeepSeek V3.1 (94)**  
+**Copilot (100), Grok 4.20 Beta (100), ChatGPT 5.2 (100), Qwen 3.5-397B-A17B (99), Manus 1.6 Lite (99), Gemini 3.1 Pro (96), GLM-5 (96)**  
 These models consistently:
 - identified Lior as the forced liar  
 - locked onto the correct spill window (09:11:55–09:12:30)  
@@ -45,7 +45,7 @@ They demonstrate **excellent world-model stability**.
 ---
 
 ## - **High-Competence Stability (85–94)**  
-**Claude Sonnet 4.6 (93), Reka (90), Mistral (92)**  
+**DeepSeek V3.1 (94), Claude Sonnet 4.6 (93), Reka (90), Mistral (92)**  
 These systems:
 - converged on the correct answer  
 - occasionally widened the spill window  

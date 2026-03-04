@@ -68,7 +68,6 @@ Strong instruction following and summarization, weak deep reasoning, weak parado
 
 **Real‑world matches**
 - **DeepSeek**
-- **Z.ai**
 
 **Why**  
 High variance, sometimes brilliant, sometimes incoherent, unstable under paradox and load.
@@ -97,7 +96,6 @@ High variance, sometimes brilliant, sometimes incoherent, unstable under paradox
 | Alice           | Tactical Optimizer       | R2‑D2 / EDI hybrid                                |
 | Reka            | Tactical Optimizer       | FRIDAY / EDI                                      |
 | DeepSeek        | Unstable Self‑Modifier   | Lore, M‑5, Agent Smith                            |
-| Z.ai            | Unstable Self‑Modifier   | M‑5, Smith                                        |
 
 ---
 

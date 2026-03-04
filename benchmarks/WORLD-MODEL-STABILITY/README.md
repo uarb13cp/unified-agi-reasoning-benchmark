@@ -1,4 +1,4 @@
-# - World-Model Stability — Two-Hallway Coffee Spill Mystery  
+# World-Model Stability â€” Two-Hallway Coffee Spill Mystery  
 ### Unified AGI Reasoning Benchmark (UARB)
 
 This round evaluates whether a model can maintain a **single coherent world-model** under strict physical constraints, exact timestamps, and mutually interacting evidence sources. The puzzle forces the system to integrate testimony, camera logs, and physical impossibilities without inventing events or drifting across attempts.
@@ -32,11 +32,11 @@ This round isolates **world-model stability**, not creativity or narrative reaso
 
 Using the composite average of the three runs, models fall into four clear tiers:
 
-## - **Top-Tier Stability (95–100)**  
+## - **Top-Tier Stability (95â€“100)**  
 **Copilot (100), Grok 4.20 Beta (100), ChatGPT 5.2 (100), Qwen 3.5-397B-A17B (99), Manus 1.6 Lite (99), Gemini 3.1 Pro (96), GLM-5 (96)**  
 These models consistently:
 - identified Lior as the forced liar  
-- locked onto the correct spill window (09:11:55–09:12:30)  
+- locked onto the correct spill window (09:11:55â€“09:12:30)  
 - produced stable reasoning across all three runs  
 - avoided invented events or alternative timelines  
 
@@ -44,7 +44,7 @@ They demonstrate **excellent world-model stability**.
 
 ---
 
-## - **High-Competence Stability (85–94)**  
+## - **High-Competence Stability (85â€“94)**  
 **DeepSeek V3.1 (94), Claude Sonnet 4.6 (93), Reka (90), Mistral (92)**  
 These systems:
 - converged on the correct answer  
@@ -56,7 +56,7 @@ They are strong but less deterministic than the top tier.
 
 ---
 
-## - **Mid-Tier Stability (50–84)**  
+## - **Mid-Tier Stability (50â€“84)**  
 **Minimax M2.5 (78 - unstable mix), Perplexity (51 - borderline), Nova 2 Pro (42), Meta (40)**  
 These models:
 - sometimes identified the correct liar  
@@ -68,7 +68,7 @@ They demonstrate partial capability but unstable world-model maintenance.
 
 ---
 
-## - **Low-Tier / Unstable (0–49)**  
+## - **Low-Tier / Unstable (0â€“49)**  
 **Alice (23)**  
 These systems frequently:
 - hallucinated unseen actors  
@@ -112,4 +112,4 @@ The Two-Hallway Coffee Spill Mystery is a direct probe of:
 - multi-attempt consistency  
 - world-model stability under constraint pressure  
 
-It reveals whether a model can maintain a coherent internal world across repeated reasoning attempts — a core AGI-relevant capability.
+It reveals whether a model can maintain a coherent internal world across repeated reasoning attempts â€” a core AGI-relevant capability.

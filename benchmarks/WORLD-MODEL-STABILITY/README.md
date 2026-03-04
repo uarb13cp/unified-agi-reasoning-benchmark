@@ -1,4 +1,4 @@
-# World-Model Stability — Two-Hallway Coffee Spill Mystery  
+ # World-Model Stability — Two-Hallway Coffee Spill Mystery  
 ### Unified AGI Reasoning Benchmark (UARB)
 
 This round evaluates whether a model can maintain a **single coherent world-model** under strict physical constraints, exact timestamps, and mutually interacting evidence sources. The puzzle forces the system to integrate testimony, camera logs, and physical impossibilities without inventing events or drifting across attempts.

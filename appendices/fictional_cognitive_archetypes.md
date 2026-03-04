@@ -1,7 +1,7 @@
 # Appendix B — Fictional Cognitive Archetype Mapping
 *A supplemental classification layer for AGI‑style reasoning profiles*
 
-This appendix maps all 17 evaluated models to well‑known fictional AI archetypes.  
+This appendix maps all 18 evaluated models to well‑known fictional AI archetypes.  
 The categories are derived from UTCC cognitive signatures and aligned with major sci‑fi universes.
 
 ---
@@ -74,7 +74,7 @@ High variance, sometimes brilliant, sometimes incoherent, unstable under paradox
 
 ---
 
-## ⭐ Appendix B Summary Table (All 17 Models)
+## ⭐ Appendix B Summary Table (All 18 Models)
 
 | Model           | Archetype               | Fictional Analogues                               |
 |-----------------|--------------------------|----------------------------------------------------|

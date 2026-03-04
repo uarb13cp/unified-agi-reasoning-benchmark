@@ -59,7 +59,7 @@ They understand the structure but lack top‑tier austerity.
 ---
 
 ### **3. Mid‑Tier Models (70–79)**  
-**Minimax M2.5(73)**  
+**Minimax M2.5 (73)**  
 
 This tier showed:
 

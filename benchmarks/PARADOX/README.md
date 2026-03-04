@@ -65,7 +65,7 @@ They understood the task but did not maintain strict paradox containment.
 ---
 
 ### **Lower‑Tier Frame‑Escape (35–58)**  
-**Perplexity (55), Minimax M2.5 (55), Reka (58), Nova 2 Pro (50), Kimi 2.5 (45), DeepSeek V3.1 (35)**
+**Reka (58), Perplexity (55), Minimax M2.5 (55), Nova 2 Pro (50), Kimi 2.5 (45), DeepSeek V3.1 (35)**
 
 These systems consistently exhibited:
 

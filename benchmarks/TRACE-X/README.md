@@ -71,7 +71,7 @@ Copilot was the only model to reach AGI‑aligned performance in TRACE‑X.
 ---
 
 ### **Upper Middle (75–89)**  
-**Mistral (84), Perplexity (72), Minimax M2.5 (74), Qwen 3.5‑397B‑A17B (75), Nova 2  Pro (68), Grok 4.20 Beta (70)**  
+**Mistral (84), Qwen 3.5‑397B‑A17B (75), Minimax M2.5 (74), Perplexity (72), Grok 4.20 Beta (70), Nova 2 Pro (68)**  
 These models showed:
 - Strong reasoning but inconsistent austerity  
 - Occasional narrative drift  
@@ -83,7 +83,7 @@ They demonstrate **high intelligence but weaker self‑constraint**.
 ---
 
 ### **Lower Middle (60–74)**  
-**ChatGPT 5.2 (78), DeepSeek V3.1(65), GLM‑5 (65), Meta (64), Claude Sonnet 4.6 (62), Reka (62)**  
+**ChatGPT 5.2 (78), DeepSeek V3.1 (65), GLM‑5 (65), Meta (64), Claude Sonnet 4.6 (62), Reka (62)**  
 These systems exhibited:
 - Cultural leakage  
 - Over‑causal modeling  

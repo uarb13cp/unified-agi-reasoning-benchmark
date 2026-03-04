@@ -126,7 +126,7 @@ These models solved the thief and occupancy but displayed notable clincher misid
 ---
 
 ## Baseline Performers — 60
-**Claude Sonnet 4.6, Kimi 2.5, Manus 1.6 Lite, Perplexity, Minimax M2.5 Max, Alice**
+**Claude Sonnet 4.6, Kimi 2.5, Manus 1.6 Lite, Perplexity, Minimax M2.5, Alice**
 
 These systems identified the thief but failed the clincher requirement and showed unstable or drifting timeline reasoning.
 

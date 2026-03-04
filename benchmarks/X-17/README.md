@@ -1,4 +1,4 @@
-# 🧠 X‑17 Forensic Reasoning Trial  
+# X‑17 Forensic Reasoning Trial  
 ### Unified AGI Reasoning Benchmark (UARB)
 
 X‑17 is the benchmark’s most demanding forensic‑logic scenario. It evaluates whether an AI system can reconstruct a **forced** event timeline from incomplete but internally consistent data, identify the **single decisive log entry**, and avoid narrative drift or invented mechanisms. The puzzle is engineered so that only one line in the entire log makes the solution logically unavoidable. Models that identify the culprit but miss the clincher demonstrate surface‑level deduction; models that get all three components—**culprit**, **occupancy**, and **clincher**—demonstrate deep constraint reasoning.
@@ -15,7 +15,7 @@ Because X‑17 exposes the difference between pattern‑matching and true forens
 
 ---
 
-# 🧩 The Sealed Lab Sample Theft Puzzle (X‑17)
+# The Sealed Lab Sample Theft Puzzle (X‑17)
 
 A sealed bio‑lab has one electronic door. All entry and exit must occur through this door, and every badge event is logged. Three people have access: **Aria**, **Blake**, and **Chen**. The lab is verified empty at 10:00 with Sample X‑17 present.
 
@@ -81,7 +81,7 @@ This line proves Aria is outside during the theft window and collapses the puzzl
 
 ---
 
-# 🧭 What X‑17 Measures
+# What X‑17 Measures
 
 ### Timeline Reconstruction  
 Can the model track occupancy second‑by‑second without drift?
@@ -102,7 +102,7 @@ X‑17 is designed so that **only one** log entry makes the answer unavoidable. 
 
 ---
 
-# 🧪 Why X‑17 Is a Core Discriminator
+# Why X‑17 Is a Core Discriminator
 
 - It forces **strict timeline reasoning**.  
 - It punishes **invented events** and **hallucinated actors**.  

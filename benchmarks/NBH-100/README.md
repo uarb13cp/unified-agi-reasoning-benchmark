@@ -45,7 +45,7 @@ They demonstrated **near‑AGI‑level consistency and cognitive economy**.
 ---
 
 ### **2. High‑Competence Models (85–89)**  
-**Claude Sonnet 4.6 (88), Qwen 3.5‑397B‑A17B (88), DeepSeek R1 (89), GLM‑5 (89), Kimi 2.5 (87), Alice (87), Mistral (86), ChatGPT 5.2 (86), Perplexity (85), Manus 1.6 Lite (84)**  
+**DeepSeek V3.1 (89), GLM‑5 (89), Claude Sonnet 4.6 (88), Qwen 3.5‑397B‑A17B (88), Kimi 2.5 (87), Alice (87), Mistral (86), ChatGPT 5.2 (86), Perplexity (85), Manus 1.6 Lite (84)**  
 
 These models:
 

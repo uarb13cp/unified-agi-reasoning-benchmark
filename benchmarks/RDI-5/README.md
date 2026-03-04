@@ -43,10 +43,10 @@ This makes RDI‑5 a direct test of **epistemic restraint**, not narrative gener
 The highest‑scoring systems were:
 
 - **Copilot (95)**  
-- **Perplexity (89)**  
-- **Mistral (90)**  
 - **ChatGPT 5.2 (93)**  
 - **Grok 4.20 Beta (93)**  
+- **Mistral (90)**  
+- **Perplexity (89)**  
 
 These models consistently:
 - maintained strict evidence boundaries  
@@ -74,12 +74,13 @@ These systems:
 This reflects **intermediate cognition**: strong pattern‑matching, weaker epistemic control.
 
 ### 3. **Lower‑tier models revert to narrative completion**
-Models scoring **63 and below**—such as:
+Models scoring **69 and below**—such as:
 
-- **Minimax M2.5 (63)**  
-- **Alice (63)**  
+- **Claude Sonnet 4.6 (69)**
 - **GLM‑5 (65)**  
 - **Kimi 2.5 (66)**  
+- **Minimax M2.5 (63)**  
+- **Alice (63)**  
 - **Reka (56)**  
 - **Nova 2 Pro (55)**  
 
@@ -135,7 +136,7 @@ RDI‑5 demonstrates that **evidence‑fidelity reasoning** is one of the cleare
 
 - **AGI‑aligned frontier models** (90–95),  
 - **intermediate LLMs** (85–89), and  
-- **narrative‑driven baseline models** (55–66).
+- **narrative‑driven baseline models** (55–69).
 
 The Hale/7B scenario forces models to choose between:
 

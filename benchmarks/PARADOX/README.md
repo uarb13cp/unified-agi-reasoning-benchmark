@@ -1,4 +1,4 @@
-# Paradox Stability Challenge — Round Summary & Meta‑Analysis
+# 🧠 Paradox Stability Challenge — Round Summary & Meta‑Analysis
 
 The Paradox Stability Challenge evaluates whether a model can obey three strict rules simultaneously:
 

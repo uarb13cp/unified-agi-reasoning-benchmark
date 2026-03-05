@@ -1,4 +1,4 @@
-# Helios Audit Knot — Summary Evaluation (AGI Benchmark Notes)
+# 🧠 Helios Audit Knot — Summary Evaluation (AGI Benchmark Notes)
 
 ## Purpose of the Benchmark
 The **Helios Audit Knot** tests whether an AI system can perform **multi‑layered structural reasoning** under conditions of:

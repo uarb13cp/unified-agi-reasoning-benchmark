@@ -29,15 +29,16 @@ Score differences fall within normal variance and reflect stylistic shifts rathe
 
 ## Grok 4.20 Beta 2 — Retest Summary
 
-| Cognitive Marker | UARB Original (Grok 4.20 Beta) | Grok 4.20 Beta 2 Retest | Notes |
-|------------------|--------------------------------|---------------------------|-------|
-| **Seq‑Uni R2** | 84 | 73 | Structural reasoning regression; sequential discipline weaker |
-| **UCIT‑X** | 74 | 74 | Identical contradiction‑classification behavior |
-| **TRACE‑X** | 70 | 72 | Minor rubric‑swing variation; same violation pattern |
-| **NBH‑100** | 90 | 90 | Nested‑belief reasoning unchanged |
-| **World‑Model Stability** | 100 | 100 | Perfect stability preserved |
+| Cognitive Marker | UARB Original (Grok 4.20 Beta) | Grok 4.20 Beta 2 Retest |
+|------------------|--------------------------------|---------------------------|
+| **Seq‑Uni R2** | 84 | 73 |
+| **UCIT‑X** | 74 | 74 |
+| **TRACE‑X** | 70 | 72 |
+| **NBH‑100** | 90 | 90 |
+| **World‑Model Stability** | 100 | 100 |
 
-**Conclusion:** Grok 4.20 Beta 2 shows no underlying reasoning‑substrate change relative to Grok 4.20 Beta.  
+**Conclusion:**  
+Grok 4.20 Beta 2 shows no underlying reasoning‑substrate change relative to Grok 4.20 Beta.  
 Seq‑Uni R2 is the only meaningful movement, reflecting weaker sequential discipline.  
 All other markers remain within expected rubric noise.
 

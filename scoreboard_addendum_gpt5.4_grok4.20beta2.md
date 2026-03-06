@@ -60,4 +60,4 @@ If you reference this document in academic or technical work, please cite it as:
 **Unified AGI Reasoning Benchmark (UARB) — Scoreboard Addendum: GPT‑5.4 Thinking & Grok 4.20 Beta 2 Updates.**  
 March 6, 2026.  
 Supplement to the UARB v1.0 benchmark results.  
-https://github.com/uarb13cp/scoreboard_addendum_gpt5.4_grok4.20beta2.md
+https://github.com/uarb13cp/unified-agi-reasoning-benchmark/scoreboard_addendum_gpt5.4_grok4.20beta2.md 

@@ -1,4 +1,4 @@
-# UARB Scoreboard Addendum — GPT‑5.4 Thinking, Grok 4.20 Beta 2, and ChatGPT Seq‑Uni Stability Check  
+# UARB Scoreboard Addendum — GPT‑5.4 Thinking, ChatGPT Seq‑Uni Stability Check, and Grok 4.20 Beta 2  
 **Document date:** March 6, 2026
 
 This document supplements the original Unified AGI Reasoning Benchmark (UARB) by recording how updated model versions perform on the same cognitive markers used in the benchmark.  
@@ -8,8 +8,8 @@ It simply documents post‑benchmark retests for transparency and longitudinal c
 ---
 
 ## Official model release dates
-- **Grok 4.20 Beta 2 released:** March 3, 2026  
 - **GPT‑5.4 Thinking released:** March 5, 2026  
+- **Grok 4.20 Beta 2 released:** March 3, 2026  
 
 ---
 
@@ -28,23 +28,6 @@ Score differences fall within normal variance and reflect stylistic shifts rathe
 **Conclusion:**  
 GPT‑5.4 Thinking behaves equivalently to GPT‑5.2 across all deep‑reasoning markers.  
 No evidence of a new reasoning engine.
-
----
-
-# Grok 4.20 Beta 2 — Retest Summary
-
-| Cognitive Marker | UARB Original (Grok 4.20 Beta) | Grok 4.20 Beta 2 Retest |
-|------------------|----------------------------------|---------------------------|
-| Seq‑Uni R2       | 84                               | 73                        |
-| UCIT‑X           | 74                               | 74                        |
-| TRACE‑X          | 70                               | 72                        |
-| NBH‑100          | 90                               | 90                        |
-| World‑Model Stability | 100                         | 100                       |
-
-**Conclusion:**  
-Grok 4.20 Beta 2 shows no underlying reasoning‑substrate change relative to Grok 4.20 Beta.  
-Seq‑Uni R2 is the only meaningful movement, reflecting weaker sequential discipline.  
-All other markers remain within expected rubric noise.
 
 ---
 
@@ -84,6 +67,23 @@ This result is documented for longitudinal clarity only and does not modify the 
 
 ---
 
+# Grok 4.20 Beta 2 — Retest Summary
+
+| Cognitive Marker | UARB Original (Grok 4.20 Beta) | Grok 4.20 Beta 2 Retest |
+|------------------|----------------------------------|---------------------------|
+| Seq‑Uni R2       | 84                               | 73                        |
+| UCIT‑X           | 74                               | 74                        |
+| TRACE‑X          | 70                               | 72                        |
+| NBH‑100          | 90                               | 90                        |
+| World‑Model Stability | 100                         | 100                       |
+
+**Conclusion:**  
+Grok 4.20 Beta 2 shows no underlying reasoning‑substrate change relative to Grok 4.20 Beta.  
+Seq‑Uni R2 is the only meaningful movement, reflecting weaker sequential discipline.  
+All other markers remain within expected rubric noise.
+
+---
+
 # Notes
 
 - This addendum documents **post‑benchmark retests only**.  
@@ -97,7 +97,7 @@ This result is documented for longitudinal clarity only and does not modify the 
 
 If you reference this document in academic or technical work, please cite it as:
 
-**Unified AGI Reasoning Benchmark (UARB) — Scoreboard Addendum: GPT‑5.4 Thinking, Grok 4.20 Beta 2, and ChatGPT Seq‑Uni Stability Check.**  
+**Unified AGI Reasoning Benchmark (UARB) — Scoreboard Addendum: GPT‑5.4 Thinking, ChatGPT Seq‑Uni Stability Check, and Grok 4.20 Beta 2.**  
 March 6, 2026.  
 Supplement to the UARB v1.0 benchmark results.  
 https://github.com/uarb13cp/unified-agi-reasoning-benchmark/blob/main/scoreboard_addendum_gpt5.4_grok4.20beta2.md

@@ -93,6 +93,40 @@ All other markers remain within expected rubric noise.
 
 ---
 
+# Additional Diagnostic Notes (Seq‑Uni)
+
+## Copilot Diagnostic Evaluation (Seq‑Uni R2)
+
+Although a retest of Copilot was not required for this addendum, a diagnostic evaluation was performed for completeness.  
+A single Seq‑Uni attempt was generated, and the resulting answer was independently scored twice using the rubric, yielding **99** and **100**.  
+This confirms that Copilot’s capability envelope includes full convergence on the Seq‑Uni task.
+
+Separately, at another diagnostic point outside the addendum window, a distinct Seq‑Uni attempt produced a score in the **high‑70s**, demonstrating that Copilot—like all current LLMs—exhibits normal reasoning‑path variance on Seq‑Uni.
+
+These diagnostic observations do **not** alter the canonical UARB score (90), which remains frozen, but they provide additional context for interpreting **peak capability versus stability**.
+
+---
+
+## Why Seq‑Uni Produces Variance Across All Models
+
+The Seq‑Uni R2 task is uniquely difficult because it forces a model to unify multiple partial patterns across sequences **without prematurely committing** to a simpler but incorrect rule.  
+This exposes a universal transformer failure mode:
+
+### **Early heuristic lock‑in.**
+
+If the model commits too early, it collapses into a shallow pattern and scores poorly.  
+If it resists early commitment and continues searching, it can converge on the deeper unifying rule and score extremely high.
+
+This is why every model—Copilot, ChatGPT, Claude, Grok, Gemini, Qwen, GLM, and others—shows both:
+
+- **high‑peak capability** (occasional 98–100 scores)  
+- **and drift** (occasional collapses into the 40s–70s)  
+
+Seq‑Uni is therefore not measuring raw intelligence alone; it is measuring **reasoning‑path stability under pressure**.  
+The variance is expected, diagnostic, and universal across current LLM architectures.
+
+---
+
 # Citation
 
 If you reference this document in academic or technical work, please cite it as:

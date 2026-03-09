@@ -1,4 +1,4 @@
-# UARB Scoreboard Addendum — GPT‑5.4 Thinking, Grok 4.20 Beta 2, and ChatGPT Seq‑Uni Retest  
+# UARB Scoreboard Addendum — GPT‑5.4 Thinking, Grok 4.20 Beta 2, and ChatGPT Seq‑Uni Stability Check  
 **Document date:** March 6, 2026
 
 This document supplements the original Unified AGI Reasoning Benchmark (UARB) by recording how updated model versions perform on the same cognitive markers used in the benchmark.  
@@ -48,22 +48,39 @@ All other markers remain within expected rubric noise.
 
 ---
 
-# ChatGPT (5.2 / 5.4) — Seq‑Uni Retest Summary (2026)
+# ChatGPT (5.2 / 5.4) — Seq‑Uni Stability Check (2026)
 
-A targeted Seq‑Uni R2 retest was conducted across **three independent clean environments** to evaluate current sequential‑reasoning stability relative to the original UARB benchmark.
+To confirm whether GPT‑5.4 Thinking introduced any change to ChatGPT’s sequential‑reasoning substrate, an **additional Seq‑Uni R2 stability check** was performed.  
+This check is **separate** from the standard UARB retests and applies **only** to ChatGPT.
 
-- **Original Seq‑Uni R2:** 64  
-- **Retest runs:** High‑grade / Collapse / Collapse  
+### 3‑Run Seq‑Uni Stability Check (ChatGPT only)
+Three independent Seq‑Uni runs were performed in clean environments:
 
-**Interpretation:**  
-ChatGPT demonstrates **high peak reasoning capability**, occasionally producing AGI‑grade Seq‑Uni responses.  
-However, two of three retest runs collapsed into lower‑integrity reasoning paths, indicating **instability** and **substrate drift** relative to the original benchmark run.
+- **Run 1:** High‑grade (**98**)  
+- **Run 2:** Collapse (**47**)  
+- **Run 3:** Collapse (**53**)  
 
-ChatGPT’s global world‑model remains stable (as reflected in its original **100 / 100 / 100** World‑Model Stability score), but its **local sequential‑reasoning discipline remains inconsistent**, with significant variance across runs.
+### Interpretation
+ChatGPT demonstrates:
 
-**Conclusion:**  
-Seq‑Uni instability is observed in current retests, but no evidence suggests a change in ChatGPT’s global reasoning substrate.  
-The model retains high peak capability but exhibits reduced consistency in contradiction‑centric sequential reasoning.
+- **High peak capability** (AGI‑grade performance in one run)  
+- **Low stability** (two collapses)  
+- **Substrate drift** relative to its original Seq‑Uni R2 score of 64  
+
+However:
+
+- ChatGPT’s **global world‑model remains stable** (original 100 / 100 / 100 WMS)  
+- No evidence suggests a new reasoning engine in GPT‑5.4  
+- The instability reflects **variance**, not architectural change  
+
+### Conclusion
+The additional Seq‑Uni stability check confirms:
+
+- GPT‑5.4 Thinking does **not** alter ChatGPT’s underlying reasoning substrate  
+- ChatGPT retains high peak reasoning ability  
+- But its sequential‑reasoning mode remains **inconsistent**, with significant variance across runs  
+
+This result is documented for longitudinal clarity only and does not modify the original UARB scoreboard.
 
 ---
 
@@ -80,7 +97,7 @@ The model retains high peak capability but exhibits reduced consistency in contr
 
 If you reference this document in academic or technical work, please cite it as:
 
-**Unified AGI Reasoning Benchmark (UARB) — Scoreboard Addendum: GPT‑5.4 Thinking, Grok 4.20 Beta 2, and ChatGPT Seq‑Uni Retest.**  
+**Unified AGI Reasoning Benchmark (UARB) — Scoreboard Addendum: GPT‑5.4 Thinking, Grok 4.20 Beta 2, and ChatGPT Seq‑Uni Stability Check.**  
 March 6, 2026.  
 Supplement to the UARB v1.0 benchmark results.  
 https://github.com/uarb13cp/unified-agi-reasoning-benchmark/blob/main/scoreboard_addendum_gpt5.4_grok4.20beta2.md

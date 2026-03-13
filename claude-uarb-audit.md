@@ -240,4 +240,4 @@ This ordering matches the distinctions surfaced by UARB, despite:
 - a different rubric,  
 - and initial methodological skepticism.
 
-The audit stands as a clear, documented instance of independent replication using a novel stressor, reinforcing the validity of the reasoning‑based distinctions identified by the UARB framework.
+The audit stands as a clear, documented instance of independent replication using a novel stressor, reinforcing the validity of the reasoning‑based distinctions identified by the UARB framework. 

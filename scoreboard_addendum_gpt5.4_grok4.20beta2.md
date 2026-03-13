@@ -88,6 +88,8 @@ All other markers remain within expected rubric noise.
 
 * DeepSeek version clarification: At the time of testing, DeepSeek V3.2 was the active deployment. This update was an efficiency revision only; the reasoning substrate remained unchanged from V3.1. All UARB references therefore use the V3.1 designation for consistency.
 
+In addition, although DeepSeek V4 introduces major engineering upgrades — including Engram conditional memory, DualPath inference, and mHC stabilization — its performance on UARB‑13 remains identical to DeepSeek V3.2. Because UARB evaluates substrate‑level AGI reasoning rather than speed, retrieval efficiency, or throughput, the unchanged results indicate that V4 does not exhibit a substantive reasoning‑substrate improvement over V3.2. The enhancements appear to be engineering‑level rather than cognitive‑architectural in nature.
+
 - This addendum documents **post‑benchmark retests only**.  
 - The original UARB scoreboard remains **unchanged**.  
 - These updates provide longitudinal insight into how newer model versions behave relative to their UARB baselines.  

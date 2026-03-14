@@ -164,5 +164,7 @@ UARB is a completed research artifact.
 It is preserved as a full snapshot of the benchmark and its results.  
 No further revisions are planned.
 
+──────────────
+
 <i>Project Created: February 26, 2026  
 Repository: uarb13cp / Unified AGI Reasoning Benchmark (UARB)</i>

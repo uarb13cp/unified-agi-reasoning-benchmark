@@ -1,4 +1,4 @@
- # UARB Addendum — ERNIE X1.1 Late Evaluation
+# UARB Addendum — ERNIE X1.1 Late Evaluation
 
 This addendum records the post‑benchmark evaluation of **ERNIE X1.1**, Baidu's dedicated reasoning and deep-thinking model, a model that was not in the model set I evaluated in February 2026 and was discovered afterward.  
 The UARB scoreboard remains frozen; this document simply captures ERNIE’s UCIT‑X, Paradox Stability, and TRACE‑X results for completeness.

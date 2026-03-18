@@ -89,8 +89,8 @@ All other markers remain within expected rubric noise.
 - Claude Sonnet 4.6 (Extended Thinking):  
 This mode increases verbosity and surface‑level elaboration but does not alter the underlying reasoning substrate. Its paradox‑handling and deep‑reasoning behavior remain identical to the base 4.6 model. Because this update is capability‑layer only, it does not qualify for a separate addendum entry.
 
-- MiniMax 2.7:  
-Although this version introduces new agent frameworks, workflow automation, and other capability‑layer enhancements, its reasoning behavior under UARB‑13 remains unchanged from MiniMax 2.5. No evidence of a reasoning‑substrate modification was observed; therefore, MiniMax 2.7 does not receive a separate addendum entry.
+- MiniMax M2.7 Max:  
+Although this version introduces new agent frameworks, workflow automation, and other capability‑layer enhancements, its reasoning behavior under UARB‑13 remains unchanged from MiniMax M2.5 Max. No evidence of a reasoning‑substrate modification was observed; therefore, MiniMax M2.7 Max does not receive a separate addendum entry.
 
 * DeepSeek version clarification: At the time of testing, DeepSeek V3.2 was the active deployment. This update was an efficiency revision only; the reasoning substrate remained unchanged from V3.1. All UARB references therefore use the V3.1 designation for consistency.
 

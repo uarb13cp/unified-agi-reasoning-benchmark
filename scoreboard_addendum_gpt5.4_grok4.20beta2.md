@@ -1,5 +1,5 @@
 # UARB Scoreboard Addendum — GPT‑5.4 Thinking, ChatGPT Seq‑Uni Stability Check, and Grok 4.20 Beta 2  
-**Document date:** March 6, 2026 
+**Document date:** March 6, 2026
 
 This document supplements the original Unified AGI Reasoning Benchmark (UARB) by recording how updated model versions perform on the same cognitive markers used in the benchmark.  
 UARB itself remains a frozen research artifact; this addendum does **not** modify the original scoreboard or composite rankings.  

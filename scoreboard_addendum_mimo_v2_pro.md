@@ -1,6 +1,6 @@
 # UARB Addendum 3.0 — MiMo‑V2‑Pro (Post‑Freeze Evaluation)
 
-MiMo‑V2‑Pro was released after the UARB v1.0 freeze and therefore cannot be added to the main scoreboard. This addendum documents MiMo’s performance on the three post‑freeze diagnostic markers used for late‑arriving models: UCIT‑X, Paradox Stability, and TRACE‑X.
+Xiaomi's MiMo‑V2‑Pro was released March 18, 2026, after the UARB v1.0 freeze and therefore cannot be added to the main scoreboard. This addendum documents MiMo’s performance on the three post‑freeze diagnostic markers used for late‑arriving models: UCIT‑X, Paradox Stability, and TRACE‑X.
 
 These tests do not alter the canonical UARB‑13 but provide a substrate‑level profile for comparison with existing frontier models.
 

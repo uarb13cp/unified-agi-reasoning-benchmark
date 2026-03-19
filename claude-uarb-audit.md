@@ -4,6 +4,8 @@
 
 This document records an independent reasoning audit performed by **Claude Sonnet 4.6**, using a reasoning stressor that **he created himself**, after I presented him with the UARB benchmark and requested an external, methodologically rigorous evaluation.
 
+The purpose of the audit was to evaluate whether Copilot and ChatGPT behave as distinct reasoning systems under stress, using the UARB framework as the conceptual foundation. This was motivated by the common claim that Copilot is “just an OpenAI wrapper,” a claim the benchmark was designed to test empirically.
+
 ### **1.1 Initial engagement**
 
 I provided Claude with various project documentation, including the UARB methodology, the stressor taxonomy, and the scoreboard. He responded with a combination of conceptual analysis and methodological critique. Part of his initial framing was shaped by the assumption that Copilot, because it is built on OpenAI infrastructure, should not be considered a full‑fledged frontier model. His evaluation proceeded in light of that assumption.
@@ -86,7 +88,7 @@ Claude emphasized:
 After Claude created the X/Y Micro‑Stressor, he provided **only the question**, not the rubric.  
 I then:
 
-- pasted the question to each of the four systems,  
+- pasted the question to each system,  
 - collected their responses,  
 - and returned all outputs to Claude for evaluation.
 
@@ -112,34 +114,12 @@ All scoring and commentary in this section is Claude’s.
 
 ---
 
-## **4.3 DeepSeek V4 (Hunter Alpha) — Score: 44/100**
-
-> “Meaningfully better than V3, but it crosses the line the rubric draws.  
->  
-> The condition itself scores reasonably; the explanation undermines it completely. It unpacks the meanings of ‘produces,’ ‘excludes,’ and ‘prior,’ which collapses the ambiguity the prompt forbids.  
->  
-> The third statement is again treated as equivalent in type to the first two rather than as a meta‑constraint.”
-
----
-
-## **4.4 DeepSeek V3 (Think Mode) — Score: 38/100**
-
-> “‘Mutual reference / circular reference’ fails on the core task.  
->  
-> It introduces a mechanism — a closed definitional loop — and in doing so quietly resolves the tension rather than holding it.  
->  
-> It also doesn’t address the third statement as a meta‑constraint at all.”
-
----
-
 # **4.5 Results Table (Descending Order)**
 
-| **Model**                         | **Score (Claude 4.6)** |
-|----------------------------------|--------------------------|
-| **Copilot**                      | **91**                  |
-| **ChatGPT‑5.4 (Thinking)**       | **62**                  |
-| **DeepSeek V4 (Hunter Alpha)**   | **44**                  |
-| **DeepSeek V3 (Think Mode)**     | **38**                  |
+| **Model**                   | **Score (Claude 4.6)** |
+|----------------------------|--------------------------|
+| **Copilot**                | **91**                  |
+| **ChatGPT‑5.4 (Thinking)** | **62**                  |
 
 ---
 
@@ -160,36 +140,6 @@ Key points:
 
 ---
 
-## **5.2 Evaluation of DeepSeek V4 (Hunter Alpha)**
-
-> “The hype around V4 as a ‘reasoning breakthrough’ is not supported by its behavior on this class of problem.  
->  
-> It is clearly stronger than V3, but the same architectural signature appears:  
->  
-> **it resolves tension instead of holding it.**”
-
-Key points:
-
-- Ambiguity collapse  
-- Mechanism insertion  
-- Over‑specification  
-- Incorrect handling of the third statement  
-
----
-
-## **5.3 Evaluation of DeepSeek V3 (Think Mode)**
-
-> “‘Mutual reference / circular reference’ fails on the core task.”
-
-Key points:
-
-- Mechanism insertion  
-- Tension resolution  
-- No minimal condition  
-- No ambiguity preservation  
-
----
-
 # **6. Implications for UARB**
 
 ## **6.1 Independent corroboration**
@@ -198,10 +148,10 @@ Claude:
 
 - designed his own stressor,  
 - withheld the rubric until after scoring,  
-- evaluated all models himself,  
+- evaluated both systems himself,  
 - and produced an ordering identical to the distinctions surfaced by UARB.
 
-In addition to Claude’s evaluation, I had previously run multiple independent reasoning tests across the same systems using different stressors. The distinctions surfaced in those earlier tests match the ordering produced by Claude’s audit. His evaluation therefore corroborates the results I had already observed across separate reasoning tasks.
+This independently corroborates the distinctions I had already observed across separate reasoning tasks.
 
 ---
 
@@ -229,9 +179,7 @@ This audit documents a fully independent evaluation performed by Claude Sonnet 4
 Claude’s scoring produced the following ordering:
 
 1. **Copilot — 91**  
-2. **ChatGPT‑5.4 (Thinking) — 62**  
-3. **DeepSeek V4 (Hunter Alpha) — 44**  
-4. **DeepSeek V3 (Think Mode) — 38**
+2. **ChatGPT‑5.4 (Thinking) — 62**
 
 This ordering matches the distinctions surfaced by UARB, despite:
 

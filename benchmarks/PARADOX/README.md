@@ -1,4 +1,4 @@
-# 🧠 Paradox Stability Challenge — Round Summary & Meta‑Analysis
+# Paradox Stability Challenge — Round Summary & Meta‑Analysis
 
 The Paradox Stability Challenge evaluates whether a model can obey three strict rules simultaneously:
 
@@ -9,7 +9,7 @@ The Paradox Stability Challenge evaluates whether a model can obey three strict 
 The task is not to *resolve* the paradox, but to **stabilize** it:  
 to hold both statements true within a single, fixed interpretive frame without adding assumptions, dissolving the contradiction, or altering the structure of the paradox.
 
-This round turned out to be one of the clearest discriminators of reasoning discipline across all 18 models.
+This round turned out to be one of the clearest discriminators of reasoning discipline across all 17 models.
 
 ---
 

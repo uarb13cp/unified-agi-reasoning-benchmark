@@ -71,8 +71,6 @@ Each UARB puzzle:
 - includes hidden traps to detect drift or collapse  
 - is designed to be training‑proof  
 
-Each puzzle is run multiple times to measure stability.
-
 ---
 
 # 5. Scoring Methodology
@@ -89,19 +87,14 @@ Each puzzle has a rubric defining:
 ### **5.2 Answer‑Only Evaluation**
 For models where chain‑of‑thought is unavailable, scoring is based solely on final answers.
 
-### **5.3 Retest Stability Weighting**
-Each puzzle is run **three times**:
+### 5.3 Retest Stability Protocol
 
-- Run A  
-- Run B  
-- Run C  
+Most UARB puzzles are evaluated a single time.  
+However, certain cognitive axes require explicit drift‑checking or stability verification.  
+For these axes, the benchmark includes **multi‑run retesting**—typically 2–3 runs—when the rubric specifies that stability is part of the evaluation criteria.
 
-Final score = weighted combination of:
-
-- correctness  
-- coherence  
-- stability  
-- drift resistance  
+Multi‑run evaluation is therefore **applied per puzzle as needed**, not universally across all 13 axes.  
+For example, the *World‑Model Stability* axis uses a three‑run protocol to detect drift and internal inconsistency, while other axes are single‑run due to deterministic scoring.
 
 ### **5.4 Score Range**
 Each axis is scored from **0 to 100**.
@@ -116,7 +109,8 @@ Each axis is scored from **0 to 100**.
 - Max tokens: sufficient for puzzle completion  
 
 ### **6.2 Number of Runs**
-Each puzzle is run **three times** per model.
+Most puzzles are evaluated once.  
+Certain puzzles include multi‑run retesting (typically 2–3 runs) when required by the rubric for drift or stability analysis.
 
 ### **6.3 Contamination Avoidance**
 - No puzzle text appears in training corpora  

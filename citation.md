@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+ cff-version: 1.2.0
 title: "Unified AGI Reasoning Benchmark Suite (UARB)"
 message: "If you use this benchmark suite, please cite it as below."
 type: software

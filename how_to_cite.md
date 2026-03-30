@@ -1,4 +1,4 @@
- **Unified AGI Reasoning Benchmark — How to Cite**
+**Unified AGI Reasoning Benchmark — How to Cite**
 
 Unified AGI Reasoning Benchmark Project (2026). *Unified AGI Reasoning Benchmark Suite.*  
 Created and maintained by **James Markatos**, Lead Author and Benchmark Designer.  

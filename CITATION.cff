@@ -43,4 +43,4 @@ preferred-citation:
     - family-names: "Markatos"
       given-names: "James"
   year: 2026
-  version: "1.0" 
+  version: "1.0"

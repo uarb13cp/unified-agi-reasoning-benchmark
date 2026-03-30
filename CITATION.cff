@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: "Unified AGI Reasoning Benchmark Suite (UARB)"
 message: "If you use this benchmark suite, please cite it as below."
-type: dataset
+type: software
 
 authors:
   - family-names: "Markatos"
@@ -43,5 +43,4 @@ preferred-citation:
     - family-names: "Markatos"
       given-names: "James"
   year: 2026
-  journal: "Unified AGI Reasoning Benchmark Project"
   version: "1.0"

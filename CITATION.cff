@@ -21,7 +21,7 @@ abstract: >
   diagnostic tool for analyzing reasoning behavior across modern AI systems.
 
 version: "1.0"
-date-released: "2026-01-01"
+date-released: "2026-02-26"
 
 repository-code: "https://github.com/Unified-AGI-Reasoning-Benchmark"
 

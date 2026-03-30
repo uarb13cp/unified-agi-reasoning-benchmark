@@ -23,7 +23,7 @@ abstract: >
 version: "1.0"
 date-released: "2026-02-26"
 
-repository-code: "https://github.com/Unified-AGI-Reasoning-Benchmark"
+repository-code: "https://github.com/uarb13cp/unified-agi-reasoning-benchmark"
 
 keywords:
   - AGI

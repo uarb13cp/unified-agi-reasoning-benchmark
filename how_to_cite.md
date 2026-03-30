@@ -3,7 +3,7 @@
 Unified AGI Reasoning Benchmark Project (2026). *Unified AGI Reasoning Benchmark Suite.*  
 Created and maintained by **James Markatos**, Lead Author and Benchmark Designer.  
 Includes: World‑Model Stability, Parallax Reasoning, UCIT‑X, UARB‑13, Helios Audit Knot, TRACE‑X, NBH‑100, Multi‑Agent Coordination, AGI Frontier Q‑Series, and all associated rubrics and replication guidance.  
-https://github.com/Unified‑AGI‑Reasoning‑Benchmark
+https://github.com/uarb13cp/unified-agi-reasoning-benchmark
 
 **Short‑form citation (recommended for tables, figures, or inline references):**  
 UARB (2026), Unified AGI Reasoning Benchmark Suite.

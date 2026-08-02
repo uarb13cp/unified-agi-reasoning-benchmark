@@ -1,3 +1,5 @@
+AI Model Addendum April-July 2026
+
 | Model | Movement | Score |
 |-------|----------|--------|
 | Meta → Muse Spark | #9 → #13 | 42.0 |

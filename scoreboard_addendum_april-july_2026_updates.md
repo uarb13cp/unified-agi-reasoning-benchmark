@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # UARB Longitudinal Reasoning‑Behavior Addendum  
 ### Model Trajectory Analysis — April–July 2026

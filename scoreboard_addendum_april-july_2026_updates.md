@@ -1,7 +1,7 @@
 # Models Included in This Addendum (with Projected Ranking Movement)
 
-Meta → Muse Spark | #9 → #13 (42.0)
-GLM‑5 → GLM‑5.1 | #7 → #17 (72.7)
+Meta → Muse Spark | #9 → #13 (42.0) 
+GLM‑5 → GLM‑5.1 | #7 → #17 (72.7) 
 Indus | #19 (51.3)
 Nova 2 Pro → Nova Premier | #17 → #18 (50.3)
 Kimi K2.5 → Kimi K2.6 | #8 → #16 (68.7)

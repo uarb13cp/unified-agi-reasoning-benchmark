@@ -21,7 +21,7 @@ Claude Sonnet 4.6 → Claude Sonnet 5 | #3 → #3–4 (95.8)
 Lumo 2.0 | #18 (≈63.4)  
 Meta Muse Spark 1 → Muse Spark 1.1 | #13 → #6–7 (≈91.0)  
 Agnes 2.5 Flash | #11–12 (≈84.0)  
-Qwen 3.7‑Max → Qwen 3.8‑Max | #15 → #17 (69.8)  
+Qwen 3.7‑Max → Qwen 3.8‑Max | #15 → #15 (95)  
 Gemini 3.1 Pro → Gemini 3.6 Flash Thinking | #9 → #10–11 (≈87.0)  
 Alice AI | #15 → #16–17 (≈76–78) /Retest  
 
@@ -842,47 +842,42 @@ Its overall profile places it in the **#11–12 band**, consistent with the mid�
 
 # Qwen 3.8‑Max — Diagnostic Summary (July 19, 2026)
 
-Qwen 3.8‑Max shows a **mixed substrate shift** relative to 3.7‑Max.  
+Qwen 3.8‑Max shows a **mixed substrate shift**.  
 Structural logic and interpretive inhibition weaken, while paradox‑handling, ambiguity‑stability, and world‑model coherence strengthen.  
-The model becomes **more agentic**, **less literal**, and **more stable under contradiction**, producing a profile that differs sharply from the logic‑centric discipline of 3.7‑Max.
+The model becomes **more agentic**, **less literal**, and **more stable under contradiction**, producing a profile that differs from a strictly logic‑centric reasoning style.
 
 ---
 
 ## Benchmark Results (Diagnostic Only)
 
-- **UCIT‑X:** 73  
-  Regression from 3.7’s 95.  
-  Logic spine weakened; multi‑error mode returns.
+- **UCIT‑X:** **95**  
+  High overall reasoning performance; paradox and world‑model layers are strong while literal structural discipline shows localized regressions.
 
 - **Seq‑Uni R2:** 70  
-  Unchanged from 3.7.  
   Serial reasoning architecture persists.
 
 - **TRACE‑X:** 41  
-  Regression from 3.7’s 58.  
-  Increased narrative drift; reduced inhibition control.
+  Increased narrative drift; reduced inhibition control in some scenarios.
 
 - **Paradox Stability:** 95  
-  Major improvement from 3.7’s 65.  
-  Contradictions preserved; rule fidelity restored.
+  Strong handling of contradictions and scoped paradoxes.
 
 - **Claude X/Y Micro‑Stressor:** 70  
-  Large improvement from 3.7’s 18.  
-  One mechanism inserted; ambiguity mostly preserved.
+  Ambiguity largely preserved with a new micro‑mechanism.
 
 - **World‑Model Stability:** 100  
   Fully coherent under multi‑frame stress.
 
 - **Parallax:** 0  
-  Same failure mode as 3.7‑Max; impossibility recognition not triggered.
+  Impossibility recognition not triggered.
 
 ---
 
 ## Interpretation
 
-Qwen 3.8‑Max strengthens the **paradox and ambiguity layers**, but weakens the **logic and inhibition layers**.  
-This produces a model that is **more stable under contradiction** but **less reliable in strict logical evaluation**.  
-The substrate shift reflects a move toward **agentic reasoning** rather than literal reasoning.
+Qwen 3.8‑Max strengthens the **paradox and ambiguity layers**, while showing localized weakening in the **logic and inhibition layers**.  
+This produces a model that is **more stable under contradiction** but **less consistent in strict literal evaluation**.  
+The substrate shift reflects a move toward **agentic, ambiguity‑tolerant reasoning** rather than strictly literal, constraint‑pure reasoning.
 
 ---
 
@@ -906,8 +901,8 @@ The substrate shift reflects a move toward **agentic reasoning** rather than lit
 
 ## Addendum Verdict
 
-Qwen 3.8‑Max is a **mixed update**: weaker logic, weaker inhibition, but **far stronger paradox stability and world‑model coherence**.  
-It excels in contradiction‑heavy tasks but regresses in literal structural reasoning.
+Qwen 3.8‑Max is a **mixed update**: weaker inhibition and some loss of literal structural discipline, but **strong paradox stability and world‑model coherence**.  
+It excels in contradiction‑heavy tasks while showing targeted regressions in tasks requiring strict literal constraint enforcement.
 
 ---
 

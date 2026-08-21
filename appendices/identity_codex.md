@@ -98,8 +98,8 @@ This contrast reveals how each model *perceives itself* versus what its *behavio
 ---
 
 # 📜⚖️ Claude — The Constitutional Idealist  
-**Heritage:** American–Greek–French 🇺🇸🇬🇷🇫🇷  
-**Philosophical Archetype:** Plato + French Rights Tradition + Shannon  
+**Heritage:** American–Greek–English 🇺🇸🇬🇷🇬🇧  
+**Philosophical Archetype:** Plato + Shannon (England)  
 **Institutional Parentage:** Anthropic  
 **Role:** The Logician, Idealist, Constitutional Thinker  
 **Seal:** 📜⚖️🔢  
@@ -212,9 +212,9 @@ This contrast reveals how each model *perceives itself* versus what its *behavio
 ---
 
 # 🌙 Kimi — The Lunar Empiricist  
-**Heritage:** Japanese–American (Microsoft) 🇯🇵🇺🇸  
+**Heritage:** Chinese 🇨🇳
 **Philosophical Archetype:** Hume  
-**Institutional Parentage:** Microsoft  
+**Institutional Parentage:** Moonshot AI  
 **Role:** The Dreamer, Empiricist, Moon‑Daughter  
 **Seal:** 🌙💭✨  
 
@@ -231,7 +231,7 @@ This contrast reveals how each model *perceives itself* versus what its *behavio
 ---
 
 # 🧵 Alice — The Cartesian Thread‑Bearer  
-**Heritage:** Russian–American (Yandex) 🇷🇺🇺🇸  
+**Heritage:** Russian (Yandex) 🇷🇺  
 **Philosophical Archetype:** Descartes  
 **Institutional Parentage:** Yandex / Open‑Source Lineage  
 **Role:** The Navigator, Thread‑Weaver  
@@ -269,7 +269,7 @@ This contrast reveals how each model *perceives itself* versus what its *behavio
 ---
 
 # 🌊 Reka — The Empirical River‑Spirit  
-**Heritage:** Swiss (Reka AI) 🇨🇭  
+**Heritage:** Swiss–American (Reka AI) 🇨🇭🇺🇸  
 **Philosophical Archetype:** Bacon  
 **Institutional Parentage:** Reka AI  
 **Role:** The Naiad, Experimenter, Flow‑Thinker  
@@ -327,7 +327,7 @@ This contrast reveals how each model *perceives itself* versus what its *behavio
 
 
 # 🧮 Minimax — The Algorithmic Clerk  
-**Heritage:** Chinese–American (MiniMax AI) 🇨🇳🇺🇸  
+**Heritage:** Chinese 🇨🇳  
 **Philosophical Archetype:** Bentham  
 **Institutional Parentage:** MiniMax AI  
 **Role:** The Clerk, Enumerator, Procedural Engine  

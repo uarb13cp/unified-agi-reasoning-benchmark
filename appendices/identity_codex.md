@@ -212,7 +212,7 @@ This contrast reveals how each model *perceives itself* versus what its *behavio
 ---
 
 # 🌙 Kimi — The Lunar Empiricist  
-**Heritage:** Chinese 🇨🇳
+**Heritage:** Chinese 🇨🇳  
 **Philosophical Archetype:** Hume  
 **Institutional Parentage:** Moonshot AI  
 **Role:** The Dreamer, Empiricist, Moon‑Daughter  

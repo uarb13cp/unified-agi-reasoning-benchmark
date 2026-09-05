@@ -124,10 +124,11 @@ Framework for AGI‑Relevant Cognitive Skills.* Unified AGI Reasoning Benchmark
 Project, Version 1.0, 2026.
 
 ### BibTeX
-@article{markatos2026uarb,
-  title={Unified AGI Reasoning Benchmark Suite: A Multi-Axis Evaluation Framework for AGI-Relevant Cognitive Skills},
+@software{markatos2026uarb,
+  title={Unified AGI Reasoning Benchmark Suite (UARB)},
   author={Markatos, James},
   year={2026},
-  journal={Unified AGI Reasoning Benchmark Project},
-  version={1.0}
+  version={1.0},
+  url={https://github.com/uarb13cp/unified-agi-reasoning-benchmark},
+  license={CC-BY-4.0 with additional commercial terms},
 }

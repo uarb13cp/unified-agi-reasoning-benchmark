@@ -160,9 +160,18 @@ These documents describe:
 
 Licensing
 
-UARB is free for academic and non-commercial research with attribution.
+UARB is available **free of charge** for academic, educational, and non‑commercial research with proper attribution.
 
-Any commercial use—including internal use, model announcements, competitive claims, investor materials, internal diagnostics that benefit a product, or sponsored research—requires prior written permission from the author.
+**Commercial use is prohibited without permission.**  
+This includes any activity that directly or indirectly benefits a commercial entity, such as:
+
+- internal model testing, diagnostics, or evaluation  
+- performance claims, marketing materials, or public announcements  
+- investor presentations, fundraising decks, or competitive positioning  
+- sponsored research that supports a commercial product  
+- integration into commercial software, services, or APIs  
+
+If your work involves a company, a commercial product, or any revenue‑generating activity, you must obtain written permission and a commercial license from the author.
 
 Full license details: [LICENSE.md](LICENSE.md)
 

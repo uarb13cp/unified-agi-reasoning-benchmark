@@ -158,6 +158,16 @@ These documents describe:
 
 ---
 
+Licensing
+
+UARB is free for academic and non-commercial research with attribution.
+
+Any commercial use (including model announcements, competitive claims, investor materials, internal diagnostics that benefit a product, or sponsored research) requires prior written permission from the author.
+
+Full license details: [LICENSE.md](LICENSE.md)
+
+---
+
 Status
 
 UARB is a completed research artifact.  

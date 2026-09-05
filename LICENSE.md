@@ -1,134 +1,79 @@
-# LICENSE — Unified AGI Reasoning Benchmark Suite (UARB)
+# Unified AGI Reasoning Benchmark Suite (UARB) License
+Copyright (c) 2026 James Markatos. All rights reserved.
 
-## 1. Core License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+## 1. Definitions
+“UARB” refers to the Unified AGI Reasoning Benchmark Suite, including all puzzles, prompts, rubrics, documentation, cognitive taxonomy, evaluator notes, scoring philosophy, and any associated files.
 
-The Unified AGI Reasoning Benchmark Suite (UARB) — including all puzzles,
-rubrics, documentation, cognitive taxonomy, evaluator notes, scoring
-philosophy, and all authored benchmark content — is licensed under the
-Creative Commons Attribution 4.0 International License **for non‑commercial use only**.
+“Non-Commercial Use” means academic, educational, personal, or research activity that does not directly or indirectly generate revenue, support a commercial product, or benefit a commercial entity.
 
-You are free to:
+“Commercial Use” means any activity conducted by, for, or on behalf of a commercial entity, including internal testing, model evaluation, product development, investor communications, marketing, or integration into commercial software or services.
 
-- **Share** — copy and redistribute the material in any medium or format  
-- **Adapt** — remix, transform, and build upon the material  
-- **Use for AI training and research** — non‑commercial only  
+“Redistribute” means to share, publish, host, fork, mirror, or otherwise make UARB or derivative works available to third parties.
 
-Under the following terms:
+## 2. Permitted Academic and Non-Commercial Use
+UARB is provided free of charge strictly for academic, educational, and non-commercial research purposes.
 
-- **Attribution** — You must give appropriate credit, provide a link to the
-  license, and indicate if changes were made. You may do so in any reasonable
-  manner, but not in any way that suggests the licensor endorses you or your use.
+You may:
+- Use, copy, and modify UARB for non-commercial purposes.
+- Redistribute modified or unmodified versions for non-commercial purposes only.
+- Integrate UARB into non-commercial evaluation frameworks.
 
-Full license text: https://creativecommons.org/licenses/by/4.0/
+All permitted use requires full and prominent attribution to the copyright holder.
 
----
+## 3. Mandatory Attribution
+Any public or private research paper, GitHub repository, benchmark report, model card, dataset description, or training data disclosure that utilizes UARB must prominently feature the official citation provided in Section 10.
 
-## 2. Additional Terms (UARB‑Specific Author Protections)
+## 4. Strict Commercial Restrictions (Permission Required)
+Any Commercial Use of UARB is strictly prohibited without prior written permission and an explicit commercial license from the copyright holder (James Markatos).
 
-These terms apply **in addition** to CC‑BY‑4.0 and clarify commercial restrictions,
-author rights, and usage boundaries.
+Prohibited commercial activities include, but are not limited to:
+- Using UARB prompts, puzzles, or rubrics for internal model testing, diagnostics, or optimization.
+- Featuring UARB scores or metrics in model announcements, marketing materials, or public performance claims.
+- Including UARB results or data in investor decks, fundraising materials, or corporate pitches.
+- Integrating UARB assets into commercial software, applications, or API services.
+- Using UARB in any workflow that contributes to a commercial product or service.
 
-### 2.1 Commercial Use Requires Permission
-Any use of UARB that directly or indirectly benefits a company, organization,
-or commercial entity **requires prior written permission from the author**.
+## 5. No Commercial Redistribution or Sale
+You may not sell, resell, rent, lease, sublicense, or commercially redistribute UARB or any derivative works, in whole or in part, under any circumstances.
 
-Commercial use includes, but is not limited to:
+## 6. No Relicensing or Sublicensing
+You may not:
+- Re-license UARB under any other license.
+- Apply additional terms to UARB.
+- Sublicense UARB or derivative works.
 
-- model announcements or performance claims  
-- competitive benchmarking  
-- investor or fundraising materials  
-- internal diagnostics or model improvement  
-- integration into commercial products or services  
-- sponsored academic research benefiting a company  
+All rights remain exclusively with the copyright holder.
 
-Permission may include licensing fees or negotiated terms.
+## 7. Termination
+Your rights under this license terminate automatically if you violate any term of this license.
 
-### 2.2 No Commercial Sale
-You may **not** sell, resell, or commercially redistribute UARB or any of its
-components (puzzles, rubrics, documentation, or dataset) in whole or in part.
+Upon termination, you must:
+- Cease all use of UARB.
+- Destroy all copies and derivatives in your possession.
+- Remove any public forks, mirrors, or redistributions.
 
-### 2.3 No Misuse of Author’s Name
-You may not use the author’s name, identity, or likeness:
+Termination does not require notice.
 
-- to imply endorsement  
-- to promote derivative works  
-- to market products or services  
+## 8. No Warranty
+UARB is provided “AS IS,” without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
-Attribution is required, but endorsement is prohibited.
+## 9. Limitation of Liability
+In no event shall the copyright holder be liable for any claim, damages, or other liability arising from or related to the use of UARB, whether in an action of contract, tort, or otherwise.
 
-### 2.4 Attribution Required for All Uses
-All uses, redistributions, adaptations, and derivative works must credit:
-
-**James Markatos — Unified AGI Reasoning Benchmark Project**
-
-Attribution must appear in:
-
-- research papers  
-- GitHub repositories  
-- benchmark reports  
-- derivative benchmarks  
-- training data disclosures  
-- model cards  
-
-### 2.5 Modifications Allowed (With Attribution)
-You may modify puzzle formats, adapt content, translate, or integrate UARB into
-other evaluation frameworks **as long as attribution is preserved**.
-
-You may not remove or obscure authorship.
-
-### 2.6 Academic Use Allowed
-Academic, educational, and non‑commercial research use is fully permitted under
-CC‑BY‑4.0, provided attribution is maintained and no commercial entity benefits
-from the use.
-
-If academic results are provided to a commercial entity, that entity must obtain
-commercial permission under Section 2.1.
-
----
-
-# README — Licensing Section
-
-## Licensing
-
-The Unified AGI Reasoning Benchmark Suite (UARB) is licensed under:
-
-### **Creative Commons Attribution 4.0 International (CC‑BY‑4.0, Non‑Commercial Use)**  
-This license allows:
-
-- free academic use  
-- redistribution  
-- modification  
-- non‑commercial AI training and research  
-
-**Attribution is required** for all uses.
-
-### Additional Terms
-UARB includes the following author‑protective terms:
-
-- **Commercial use requires permission**  
-- **No commercial sale** of the benchmark or its components  
-- **No misuse of the author’s name**  
-- **Attribution required** for all uses and derivatives  
-- **Modifications allowed**, but authorship must remain visible  
-
----
-
-# How to Cite UARB
-
-If you use UARB in research, evaluation, training, or derivative work, please
-cite it as follows:
+## 10. Official Citation Formats
 
 ### Plain Text Citation
-Markatos, James. *Unified AGI Reasoning Benchmark Suite: A Multi‑Axis Evaluation
-Framework for AGI‑Relevant Cognitive Skills.* Unified AGI Reasoning Benchmark
-Project, Version 1.0, 2026.
+Markatos, James. *Unified AGI Reasoning Benchmark Suite: A Multi-Axis Evaluation Framework for AGI-Relevant Cognitive Skills.* Unified AGI Reasoning Benchmark Project, Version 1.0, 2026.
 
 ### BibTeX
-@software{markatos2026uarb,  
-  title={Unified AGI Reasoning Benchmark Suite (UARB)},  
-  author={Markatos, James},  
-  year={2026},  
-  version={1.0},  
-  url={https://github.com/uarb13cp/unified-agi-reasoning-benchmark},  
-  license={CC-BY-4.0 with additional commercial terms},  
+@software{markatos2026uarb,
+  title        = {Unified AGI Reasoning Benchmark Suite (UARB)},
+  author       = {Markatos, James},
+  year         = {2026},
+  version      = {1.0},
+  url          = {https://github.com},
+  license      = {Custom Non-Commercial Source-Available License},
 }
+
+## 11. Governing Law
+This license shall be governed and interpreted according to the laws of the United States and the State of Georgia, without regard to conflict-of-law principles.

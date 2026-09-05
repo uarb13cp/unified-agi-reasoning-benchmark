@@ -66,13 +66,13 @@ In no event shall the copyright holder be liable for any claim, damages, or othe
 Markatos, James. *Unified AGI Reasoning Benchmark Suite: A Multi-Axis Evaluation Framework for AGI-Relevant Cognitive Skills.* Unified AGI Reasoning Benchmark Project, Version 1.0, 2026.
 
 ### BibTeX
-@software{markatos2026uarb,
-  title        = {Unified AGI Reasoning Benchmark Suite (UARB)},
-  author       = {Markatos, James},
-  year         = {2026},
-  version      = {1.0},
-  url          = {https://github.com},
-  license      = {Custom Non-Commercial Source-Available License},
+@software{markatos2026uarb,  
+  title        = {Unified AGI Reasoning Benchmark Suite (UARB)},  
+  author       = {Markatos, James},  
+  year         = {2026},  
+  version      = {1.0},  
+  url          = {https://github.com/uarb13cp/unified-agi-reasoning-benchmark},  
+  license      = {Custom Non-Commercial Source-Available License},  
 }
 
 ## 11. Governing Law

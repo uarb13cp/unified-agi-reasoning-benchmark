@@ -76,4 +76,4 @@ Markatos, James. *Unified AGI Reasoning Benchmark Suite: A Multi-Axis Evaluation
 }
 
 ## 11. Governing Law
-This license shall be governed and interpreted according to the laws of the United States and the State of Georgia, without regard to conflict-of-law principles.
+This license shall be governed and interpreted according to the laws of the United States and the State of Florida, without regard to conflict-of-law principles.

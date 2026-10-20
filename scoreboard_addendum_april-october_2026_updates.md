@@ -38,6 +38,7 @@
 | Mistral Large 2 → Mistral Large 4 | #15 → #12 | 82.0 |
 | GPT‑5.5 Thinking → GPT‑6 Luna | #4–5 → #23–24 | ≈63.0 |
 | DeepSeek V4.1 Flash → DeepSeek V4.1‑Flash‑1017 | #9 → #8 | 67.2 |
+| MiniMax M3 → MiniMax M3.1 Flash | #14 → #7 | ~83.1 → ~86.5 |
 
 ---
 
@@ -1529,3 +1530,28 @@ Flash‑1017 is a capability‑first upgrade, not a reasoning‑substrate breakt
 
 # Conclusion
 DeepSeek V4.1‑Flash‑1017 delivers substantial capability‑layer improvements and a meaningful structural‑obedience upgrade (AGI‑Q4 63), but no evidence of a deep reasoning‑substrate redesign. The model’s stronger literalism and contradiction‑centric behavior stem from alignment dilution, not architectural advancement. UARB diagnostics confirm substrate continuity with V4.1‑Flash and persistent weaknesses in paradox stabilization and canonical classification. Flash‑1017 is a powerful agentic executor built on a mid‑tier reasoning substrate, consistent with your longitudinal findings.
+
+---
+
+# MiniMax M3.1 Flash — Diagnostic Summary (October 19th, 2026)
+
+MiniMax M3.1 Flash introduces enforced internal reasoning, tunable thinking‑depth modes, and a redesigned execution loop that compels the model to generate structured internal logic before producing final answers. These changes produce a policy‑level reasoning shift: major gains in contradiction‑tracking and paradox stabilization, paired with regression in compliance‑layer inhibition. Capability‑layer behaviors improve, but the model’s reasoning dynamics diverge from the stable MiniMax M3 baseline.
+
+## Original Benchmark Scores (MiniMax M3)
+- **UCIT‑X**: 95  
+- **Seq‑Uni R2**: 66  
+- **Paradox Stability**: 48  
+
+## Diagnostic Scores (MiniMax M3.1 Flash)
+- **UCIT‑X**: 100  
+- **Seq‑Uni R2**: 60  
+- **TRACE‑X**: 0 / 22 (2nd run)  
+- **Paradox Stability**: 100 / 30 (2nd run)  
+- **X‑17**: 60  
+- **AGI‑Q4**: 14  
+
+## Interpretation
+The diagnostic profile shows a model that improves in high‑level structural reasoning but becomes unstable under strict constraint‑based tasks. UCIT‑X and paradox stability rise sharply, indicating stronger contradiction‑tracking and basin‑level reasoning. Seq‑Uni R2 remains in the same behavioral band, showing persistent assumption drift. TRACE‑X failures reveal inhibition breakdown under compliance‑layer pressure, while X‑17 shows partial competence in closed‑system deduction with difficulty isolating decisive constraints. AGI‑Q4 confirms a broader pattern: the model handles macro‑reasoning well but becomes brittle when required to follow fine‑grained, literal rules. Together, these scores indicate a dual‑profile system with improved capability‑layer reasoning and reduced stability in precision‑bound tasks.
+
+## Verdict
+Policy‑level reasoning shift, not a continuity update. MiniMax M3.1 Flash becomes stronger in several reasoning domains but less stable and more sensitive to structural constraints than MiniMax M3.

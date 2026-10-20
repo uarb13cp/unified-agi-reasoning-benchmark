@@ -1,4 +1,4 @@
- # Models Included in This Addendum (with Projected Ranking Movement)
+# Models Included in This Addendum (with Projected Ranking Movement)
 
 | Model Transition | Ranking Movement | Consolidated Avg |
 | --- | --- | --- |
